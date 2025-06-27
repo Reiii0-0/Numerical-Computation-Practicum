@@ -1,0 +1,13 @@
+# Ignore Python and C common build artifacts globally
+__pycache__/
+*.pyc
+*.o
+romberg
+
+# IDE
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
